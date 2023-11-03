@@ -1,5 +1,11 @@
 # Mastermind en C
 
+## Stucture
+
+`src`: répertoire du code
+`build`: répertoire de/des l'éxécutable(s)
+`script`: répertoire du/des scripts de test du programme principale
+
 ## Compiler
 
 Vous devez avoir installé make et gcc
